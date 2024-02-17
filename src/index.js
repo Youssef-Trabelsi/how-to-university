@@ -6,7 +6,7 @@ import reportWebVitals from './reportWebVitals';
 import {createBrowserRouter,NavLink,RouterProvider} from "react-router-dom";
 import 'bootstrap/dist/css/bootstrap.min.css'; 
 import '@fortawesome/fontawesome-free/css/all.min.css';
-import { TheComponent } from './TheComponent';
+import { TheComponent } from './components/TheComponent';
 
 
 const router = createBrowserRouter([

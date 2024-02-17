@@ -1,8 +1,8 @@
 import React from 'react';
 import { useParams } from 'react-router-dom';
-import {WebDev} from './components/WebDev';
-import {Ai} from './components/Ai';
-import {MobileDev} from './components/MobileDev';
+import {WebDev} from '../pages/WebDev';
+import {Ai} from '../pages/Ai';
+import {MobileDev} from '../pages/MobileDev';
 
 
 export function TheComponent(){
